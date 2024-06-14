@@ -1,0 +1,17 @@
+D:\documents\projet\Pratique\Service\bin\Debug\net8.0\Service.deps.json
+D:\documents\projet\Pratique\Service\bin\Debug\net8.0\Service.dll
+D:\documents\projet\Pratique\Service\bin\Debug\net8.0\Service.pdb
+D:\documents\projet\Pratique\Service\bin\Debug\net8.0\Core.dll
+D:\documents\projet\Pratique\Service\bin\Debug\net8.0\Infrastructure.dll
+D:\documents\projet\Pratique\Service\bin\Debug\net8.0\Core.pdb
+D:\documents\projet\Pratique\Service\bin\Debug\net8.0\Infrastructure.pdb
+D:\documents\projet\Pratique\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+D:\documents\projet\Pratique\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\documents\projet\Pratique\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+D:\documents\projet\Pratique\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+D:\documents\projet\Pratique\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+D:\documents\projet\Pratique\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+D:\documents\projet\Pratique\Service\obj\Debug\net8.0\Service.dll
+D:\documents\projet\Pratique\Service\obj\Debug\net8.0\refint\Service.dll
+D:\documents\projet\Pratique\Service\obj\Debug\net8.0\Service.pdb
+D:\documents\projet\Pratique\Service\obj\Debug\net8.0\ref\Service.dll
