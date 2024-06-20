@@ -42,3 +42,4 @@ D:\documents\projet\Pratique\Pratique\obj\Debug\net8.0\refint\Web.dll
 D:\documents\projet\Pratique\Pratique\obj\Debug\net8.0\Web.pdb
 D:\documents\projet\Pratique\Pratique\obj\Debug\net8.0\Web.genruntimeconfig.cache
 D:\documents\projet\Pratique\Pratique\obj\Debug\net8.0\ref\Web.dll
+D:\documents\projet\Pratique\Pratique\obj\Debug\net8.0\Web.sourcelink.json

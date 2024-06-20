@@ -15,3 +15,4 @@ D:\documents\projet\Pratique\Service\obj\Debug\net8.0\Service.dll
 D:\documents\projet\Pratique\Service\obj\Debug\net8.0\refint\Service.dll
 D:\documents\projet\Pratique\Service\obj\Debug\net8.0\Service.pdb
 D:\documents\projet\Pratique\Service\obj\Debug\net8.0\ref\Service.dll
+D:\documents\projet\Pratique\Service\obj\Debug\net8.0\Service.sourcelink.json

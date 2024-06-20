@@ -8,7 +8,10 @@ namespace Web.Controllers
     [ApiController]
     [Route("api/client")]
     [EnableCors("CorsPolicy")]
-    public class ClientController : Controller
+
+    // code : 200
+    // message : object , message d erreur
+    public class ClientController : BaseController
     {
         private readonly IClientService _clientService;
 
@@ -19,13 +22,13 @@ namespace Web.Controllers
 
         [HttpGet]
         public async Task<IActionResult> GetClient() {
-            return Ok(await _clientService.GetClients());
+            return Result(await _clientService.GetClients());
         }
 
         [HttpPost]
         public async Task<IActionResult> CreateClient(ClientDto dto)
         {
-            return Ok(await _clientService.CreateClient(dto));
+            return Result(await _clientService.CreateClient(dto));
         }
     }
 }

@@ -10,7 +10,7 @@ namespace Service
 {
     public interface IClientService
     {
-        Task<Client> CreateClient(ClientDto dto);
-        Task<List<Client>> GetClients();
+        Task<ApiReponse> CreateClient(ClientDto dto);
+        Task<ApiReponse> GetClients();
     }
 }
